@@ -6,7 +6,7 @@ A full-stack application to summarize text and PDFs, extract keywords, and gener
 
 - `backend/`: FastAPI application (Python)
 - `frontend/`: Next.js application (TypeScript/React)
-
+ **Frontend GitHub Repository:** https://github.com/Maxw311nyimbili/paper_summary_frontend
 ## Local Development
 
 ### Backend
